@@ -1,0 +1,10 @@
+# starting Thu Dec 10 23:56:18 2015
+# memory overrun protection of 4 Bytes
+# initializing new memory with 0xAA
+# sweeping deleted memory with 0xEE
+# aborts on OVERWRITE_MEMORY 
+# thread save
+# internal buffer now 32768
+# finished Thu Dec 10 23:57:03 2015
+# total allocation requests:    505 ; max. mem used 5 kBytes
+# leak      0 Bytes	:-)
